@@ -1,0 +1,15 @@
+Country,ISO,Region,Currency,Before_War_Price,Mar7_Price,Apr6_Price,Jul13_Price,Unit,Before_War_USD,Mar7_USD,Apr6_USD,Jul13_USD,Oil_Import_Dep,Pct_Since_War,Trend
+Pakistan,PAK,South Asia,PKR,258.06,321.17,378.41,425.5,PKR/L,0.93,1.15,1.36,1.53,High,64.88,Surge
+India,IND,South Asia,INR,101.22,101.2,101.12,112.4,INR/L,1.09,1.09,1.09,1.21,High,11.05,Increase
+Bangladesh,BGD,South Asia,BDT,120.0,120.0,120.0,145.0,BDT/L,0.97,0.97,0.97,1.17,High,20.83,Increase
+Afghanistan,AFG,South Asia,AFN,55.0,57.0,61.0,78.0,AFN/L,0.8,0.82,0.95,1.12,High,41.82,Surge
+Nepal,NPL,South Asia,NPR,157.0,190.0,202.0,245.0,NPR/L,1.06,1.28,1.36,1.65,High,56.05,Surge
+Sri Lanka,LKA,South Asia,LKR,340.0,370.0,455.0,580.0,LKR/L,1.08,1.22,1.44,1.84,High,70.59,Surge
+Turkey,TUR,Europe/Asia,TRY,57.18,58.5,62.61,78.4,TRY/L,1.28,1.31,1.4,1.75,High,37.11,Surge
+Iran,IRN,Middle East,IRR,15000.0,15000.0,15000.0,15000.0,IRR/L,0.03,0.03,0.03,0.03,Low,0.0,Subsidized
+Saudi Arabia,SAU,Middle East,SAR,2.33,2.33,2.33,2.33,SAR/L,0.62,0.62,0.62,0.62,Low,0.0,Stable
+UAE,ARE,Middle East,AED,2.33,2.48,3.28,4.12,AED/L,0.63,0.68,0.89,1.12,Low,76.82,Surge
+China,CHN,East Asia,CNY,7.47,8.2,9.2,10.85,CNY/L,1.09,1.19,1.34,1.58,High,45.25,Surge
+United Kingdom,GBR,Europe,GBP,1.32,1.36,1.49,1.72,GBP/L,1.75,1.81,1.98,2.29,Medium,30.3,Surge
+Germany,DEU,Europe,EUR,1.77,1.89,2.18,2.45,EUR/L,2.05,2.19,2.53,2.84,Medium,38.42,Surge
+USA,USA,North America,USD,0.87,0.97,1.18,1.38,USD/L,0.87,0.97,1.18,1.38,Low,58.62,Surge

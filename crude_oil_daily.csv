@@ -1,0 +1,107 @@
+Date,Brent_USD,WTI_USD,Brent_Change_Pct,WTI_Change_Pct,Phase,Strait_Hormuz
+2026-02-16,,,0.0,0.0,Pre-Conflict,Open
+2026-02-17,,,,,Pre-Conflict,Open
+2026-02-18,,,,,Pre-Conflict,Open
+2026-02-19,,,,,Pre-Conflict,Open
+2026-02-20,,,,,Pre-Conflict,Open
+2026-02-23,70.96,66.88,,,Pre-Conflict,Open
+2026-02-24,71.68,68.0,1.01,1.67,Pre-Conflict,Open
+2026-02-25,72.02,67.98,0.47,-0.03,Pre-Conflict,Open
+2026-02-26,73.57,69.46,2.15,2.18,Pre-Conflict,Open
+2026-02-27,74.51,70.85,1.28,2.0,Pre-Conflict,Open
+2026-03-02,77.89,72.09,4.54,1.75,Active Conflict (Wave 1),Closed/Restricted
+2026-03-03,79.7,74.31,2.32,3.08,Active Conflict (Wave 1),Closed/Restricted
+2026-03-04,81.18,76.05,1.86,2.34,Active Conflict (Wave 1),Closed/Restricted
+2026-03-05,82.52,76.66,1.65,0.8,Active Conflict (Wave 1),Closed/Restricted
+2026-03-06,84.52,79.17,2.42,3.27,Active Conflict (Wave 1),Closed/Restricted
+2026-03-09,89.62,84.27,6.03,6.44,Active Conflict (Wave 1),Closed/Restricted
+2026-03-10,91.54,86.01,2.14,2.06,Active Conflict (Wave 1),Closed/Restricted
+2026-03-11,93.62,88.13,2.27,2.46,Active Conflict (Wave 1),Closed/Restricted
+2026-03-12,96.62,91.11,3.2,3.38,Active Conflict (Wave 1),Closed/Restricted
+2026-03-13,98.53,92.99,1.98,2.06,Active Conflict (Wave 1),Closed/Restricted
+2026-03-16,104.33,98.68,5.89,6.12,Active Conflict (Wave 1),Closed/Restricted
+2026-03-17,103.25,97.55,-1.04,-1.15,Active Conflict (Wave 1),Closed/Restricted
+2026-03-18,103.94,98.2,0.67,0.67,Active Conflict (Wave 1),Closed/Restricted
+2026-03-19,105.06,99.75,1.08,1.58,Active Conflict (Wave 1),Closed/Restricted
+2026-03-20,105.74,99.91,0.65,0.16,Active Conflict (Wave 1),Closed/Restricted
+2026-03-23,105.8,100.68,0.06,0.77,Active Conflict (Wave 1),Closed/Restricted
+2026-03-24,105.92,100.39,0.11,-0.29,Active Conflict (Wave 1),Closed/Restricted
+2026-03-25,106.38,101.0,0.43,0.61,Active Conflict (Wave 1),Closed/Restricted
+2026-03-26,108.28,102.75,1.79,1.73,Active Conflict (Wave 1),Closed/Restricted
+2026-03-27,107.67,102.3,-0.56,-0.44,Active Conflict (Wave 1),Closed/Restricted
+2026-03-30,109.31,103.89,1.52,1.55,Active Conflict (Wave 1),Closed/Restricted
+2026-03-31,109.56,103.74,0.23,-0.14,Active Conflict (Wave 1),Closed/Restricted
+2026-04-01,110.6,105.21,0.95,1.42,Active Conflict (Wave 1),Closed/Restricted
+2026-04-02,109.76,104.59,-0.76,-0.59,Active Conflict (Wave 1),Closed/Restricted
+2026-04-03,110.04,104.41,0.26,-0.17,Active Conflict (Wave 1),Closed/Restricted
+2026-04-06,111.78,106.18,1.58,1.7,Active Conflict (Wave 1),Closed/Restricted
+2026-04-07,105.62,100.09,-5.51,-5.74,Active Conflict (Wave 1),Closed/Restricted
+2026-04-08,99.13,94.79,-6.14,-5.3,Ceasefire & Negotiations,Reopening/Monitored
+2026-04-09,97.91,93.14,-1.23,-1.74,Ceasefire & Negotiations,Reopening/Monitored
+2026-04-10,98.09,93.79,0.18,0.7,Ceasefire & Negotiations,Reopening/Monitored
+2026-04-13,94.36,90.14,-3.8,-3.89,Ceasefire & Negotiations,Reopening/Monitored
+2026-04-14,94.13,89.96,-0.24,-0.2,Ceasefire & Negotiations,Reopening/Monitored
+2026-04-15,92.45,87.68,-1.78,-2.53,Ceasefire & Negotiations,Reopening/Monitored
+2026-04-16,91.41,87.17,-1.12,-0.58,Ceasefire & Negotiations,Reopening/Monitored
+2026-04-17,91.44,86.61,0.03,-0.64,Ceasefire & Negotiations,Reopening/Monitored
+2026-04-20,88.16,84.03,-3.59,-2.98,Ceasefire & Negotiations,Reopening/Monitored
+2026-04-21,88.0,83.15,-0.18,-1.05,Ceasefire & Negotiations,Reopening/Monitored
+2026-04-22,87.46,83.34,-0.61,0.23,Ceasefire & Negotiations,Reopening/Monitored
+2026-04-23,87.63,83.22,0.19,-0.14,Ceasefire & Negotiations,Reopening/Monitored
+2026-04-24,87.22,82.48,-0.47,-0.89,Ceasefire & Negotiations,Reopening/Monitored
+2026-04-27,86.24,81.58,-1.12,-1.09,Ceasefire & Negotiations,Reopening/Monitored
+2026-04-28,85.89,81.34,-0.41,-0.29,Ceasefire & Negotiations,Reopening/Monitored
+2026-04-29,84.57,80.18,-1.54,-1.43,Ceasefire & Negotiations,Reopening/Monitored
+2026-04-30,84.72,80.35,0.18,0.21,Ceasefire & Negotiations,Reopening/Monitored
+2026-05-01,84.83,80.31,0.13,-0.05,Ceasefire & Negotiations,Reopening/Monitored
+2026-05-04,85.89,81.54,1.25,1.53,Ceasefire & Negotiations,Reopening/Monitored
+2026-05-05,85.28,80.94,-0.71,-0.74,Ceasefire & Negotiations,Reopening/Monitored
+2026-05-06,86.29,81.43,1.18,0.61,Ceasefire & Negotiations,Reopening/Monitored
+2026-05-07,85.6,80.82,-0.8,-0.75,Ceasefire & Negotiations,Reopening/Monitored
+2026-05-08,86.64,82.3,1.21,1.83,Ceasefire & Negotiations,Reopening/Monitored
+2026-05-11,86.8,82.37,0.18,0.09,Ceasefire & Negotiations,Reopening/Monitored
+2026-05-12,85.97,81.83,-0.96,-0.66,Ceasefire & Negotiations,Reopening/Monitored
+2026-05-13,87.46,83.24,1.73,1.72,Ceasefire & Negotiations,Reopening/Monitored
+2026-05-14,86.62,81.99,-0.96,-1.5,Ceasefire & Negotiations,Reopening/Monitored
+2026-05-15,87.15,83.04,0.61,1.28,Ceasefire & Negotiations,Reopening/Monitored
+2026-05-18,88.4,83.89,1.43,1.02,Ceasefire & Negotiations,Reopening/Monitored
+2026-05-19,89.92,85.65,1.72,2.1,Ceasefire & Negotiations,Reopening/Monitored
+2026-05-20,90.16,85.65,0.27,0.0,Ceasefire & Negotiations,Reopening/Monitored
+2026-05-21,90.89,86.23,0.81,0.68,Ceasefire & Negotiations,Reopening/Monitored
+2026-05-22,90.67,86.0,-0.24,-0.27,Ceasefire & Negotiations,Reopening/Monitored
+2026-05-25,93.17,88.51,2.76,2.92,Ceasefire & Negotiations,Reopening/Monitored
+2026-05-26,93.02,88.25,-0.16,-0.29,Ceasefire & Negotiations,Reopening/Monitored
+2026-05-27,94.56,89.81,1.66,1.77,Ceasefire & Negotiations,Reopening/Monitored
+2026-05-28,94.75,90.51,0.2,0.78,Ceasefire & Negotiations,Reopening/Monitored
+2026-05-29,95.4,91.01,0.69,0.55,Ceasefire & Negotiations,Reopening/Monitored
+2026-06-01,97.38,92.61,2.08,1.76,Ceasefire & Negotiations,Reopening/Monitored
+2026-06-02,98.2,93.4,0.84,0.85,Ceasefire & Negotiations,Reopening/Monitored
+2026-06-03,98.35,92.56,0.15,-0.9,Re-Escalation & Blockade,Blocked
+2026-06-04,102.4,96.42,4.12,4.17,Re-Escalation & Blockade,Blocked
+2026-06-05,106.69,100.38,4.19,4.11,Re-Escalation & Blockade,Blocked
+2026-06-08,117.49,111.19,10.12,10.77,Re-Escalation & Blockade,Blocked
+2026-06-09,118.62,112.99,0.96,1.62,Re-Escalation & Blockade,Blocked
+2026-06-10,119.86,113.72,1.05,0.65,Re-Escalation & Blockade,Blocked
+2026-06-11,120.83,114.55,0.81,0.73,Re-Escalation & Blockade,Blocked
+2026-06-12,121.59,115.63,0.63,0.94,Re-Escalation & Blockade,Blocked
+2026-06-15,123.0,117.15,1.16,1.31,Re-Escalation & Blockade,Blocked
+2026-06-16,124.76,118.49,1.43,1.14,Re-Escalation & Blockade,Blocked
+2026-06-17,124.42,118.72,-0.27,0.19,Re-Escalation & Blockade,Blocked
+2026-06-18,126.1,120.25,1.35,1.29,Re-Escalation & Blockade,Blocked
+2026-06-19,127.0,120.72,0.71,0.39,Re-Escalation & Blockade,Blocked
+2026-06-22,127.99,121.81,0.78,0.9,Re-Escalation & Blockade,Blocked
+2026-06-23,127.39,121.63,-0.47,-0.15,Re-Escalation & Blockade,Blocked
+2026-06-24,128.33,122.01,0.74,0.31,Re-Escalation & Blockade,Blocked
+2026-06-25,126.27,120.07,-1.61,-1.59,Re-Escalation & Blockade,Blocked
+2026-06-26,127.38,121.5,0.88,1.19,Re-Escalation & Blockade,Blocked
+2026-06-29,125.72,119.49,-1.3,-1.65,Re-Escalation & Blockade,Blocked
+2026-06-30,124.05,117.67,-1.33,-1.52,Re-Escalation & Blockade,Blocked
+2026-07-01,124.93,118.92,0.71,1.06,Re-Escalation & Blockade,Blocked
+2026-07-02,123.06,116.82,-1.5,-1.77,Re-Escalation & Blockade,Blocked
+2026-07-03,122.84,116.46,-0.18,-0.31,Re-Escalation & Blockade,Blocked
+2026-07-06,121.58,115.84,-1.03,-0.53,Re-Escalation & Blockade,Blocked
+2026-07-07,120.75,114.5,-0.68,-1.16,Re-Escalation & Blockade,Blocked
+2026-07-08,120.9,115.22,0.12,0.63,Re-Escalation & Blockade,Blocked
+2026-07-09,122.31,116.06,1.17,0.73,Re-Escalation & Blockade,Blocked
+2026-07-10,122.38,116.67,0.06,0.53,Re-Escalation & Blockade,Blocked
+2026-07-13,122.46,116.54,0.07,-0.11,Re-Escalation & Blockade,Blocked

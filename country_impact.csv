@@ -1,0 +1,18 @@
+Country,Region,Oil_Import_Pct,GDP_Impact_Pct,Inflation_Risk,Stock_Market_Change,Currency_Pressure,Policy_Response,Vulnerability,Population_M
+Pakistan,South Asia,85,-3.8,Extreme,-12.4,Severe,Fuel subsidy ended; PKR 425.50/L; emergency IMF funding sought,Critical,240
+India,South Asia,85,-2.2,High,-7.1,High,Strategic reserves tapped; fuel price capped at INR 112.40/L via state funds,High,1440
+Bangladesh,South Asia,95,-3.2,Very High,-8.8,Severe,BDT 145.00/L; severe rolling power blackouts to ration fuel oil reserves,Critical,175
+Sri Lanka,South Asia,100,-5.5,Extreme,-14.2,Extreme,LKR 580/L; non-essential vehicle fuel sales suspended; severe rationing,Critical,22
+Nepal,South Asia,100,-3.0,Very High,-7.8,High,NPR 245/L; transport capacity halved; government fleet grounded on weekends,Critical,30
+China,East Asia,72,-1.8,High,-5.8,Moderate,CNY 10.85/L (+45%); Russian land-route oil imports surged; Navy patrols South China Sea,Moderate,1425
+Japan,East Asia,90,-2.6,High,-9.4,High,Extended fuel wholesale subsidies; accelerated nuclear power plant restarts,High,124
+South Korea,East Asia,92,-2.8,High,-10.5,High,Tapped 90-day IEA emergency reserves; temporary industrial fuel tax cuts,High,52
+Turkey,Europe/Asia,89,-3.5,Very High,-9.2,Severe,TRY 78.40/L (+37%); central bank raises rates; pipeline transit security boosted,High,86
+Germany,Europe,65,-1.5,High,-6.8,Low,EUR 2.45/L; EU-wide voluntary oil conservation target of 15% implemented,Moderate,84
+United Kingdom,Europe,45,-1.2,Moderate,-5.5,Low,GBP 1.72/L; North Sea drilling permits expedited; naval ships sent to Red Sea,Moderate,68
+USA,North America,5,-0.8,High,-6.2,Low,$1.38/L (+58%); SPR drawdowns; active domestic shale permit fast-tracking,Low,340
+Saudi Arabia,Middle East,0,1.5,Low,-4.5,Low,SAR 2.33; domestic prices subsidized; export routes redirected to Red Sea terminals,Low,37
+UAE,Middle East,0,-2.5,Moderate,-11.8,Low,AED 4.12/L (+77%); shipping corridors disrupted; Fujairah bunkering halted,Moderate,10
+Iran,Middle East,0,-22.0,Extreme,-35.0,Extreme,IRR 15000/L; severe fuel rationing; black market petrol at 18x official rate,Critical,90
+Australia,Oceania,70,-1.6,High,-6.5,Moderate,Retail petrol surges 54%; fuel stock mandates reviewed for defense readiness,Moderate,27
+Egypt,Africa,40,-3.2,Very High,-8.5,Severe,Suez Canal revenues decline 48%; diesel subsidies slashed to preserve currency,High,110
